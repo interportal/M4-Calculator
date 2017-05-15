@@ -1,1 +1,1 @@
-# M4-Calculator
+# Calculator using JPA and Hibernate
